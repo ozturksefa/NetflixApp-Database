@@ -1,0 +1,1 @@
+NetflixJAR klasörünün içerisinde ki Netflix.jar dosyası veya NetflixApp-Database/Netflix/dist/ içerisinde bulunan Netflix.jar dosyası ile uygulama çalıştırılabilir.
